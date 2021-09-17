@@ -1,0 +1,9 @@
+body{
+  background-color: #fff;
+}
+
+.top-bar{
+  background-image: url("../topbar.jpg");
+  background-size: cover;
+  height:100px;
+}
